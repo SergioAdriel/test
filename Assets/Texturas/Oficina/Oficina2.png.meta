@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 2d9d9ca90d3928d4db2646d2a2a70de2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8128135484939427529
+    second: Oficina2_0
+  - first:
+      213: -8321523380299517872
+    second: Oficina2_1
+  - first:
+      213: 3089059327054563059
+    second: Oficina2_2
+  - first:
+      213: -2267479322430853366
+    second: Oficina2_3
+  - first:
+      213: 7581754460259920830
+    second: Oficina2_4
+  - first:
+      213: -4935829711401792889
+    second: Oficina2_5
+  - first:
+      213: 6628277659582945757
+    second: Oficina2_6
+  - first:
+      213: -37658101052458986
+    second: Oficina2_7
+  - first:
+      213: -8540328113309456949
+    second: Oficina2_8
+  - first:
+      213: 6152638768121100945
+    second: Oficina2_9
+  - first:
+      213: 3343296223441118900
+    second: Oficina2_10
+  - first:
+      213: 9193686120466192857
+    second: Oficina2_11
+  - first:
+      213: 8146502771967214113
+    second: Oficina2_12
+  - first:
+      213: -7717004154346046269
+    second: Oficina2_13
+  - first:
+      213: 1750061340301871146
+    second: Oficina2_14
+  - first:
+      213: 1300397464862986230
+    second: Oficina2_15
+  - first:
+      213: 466448697545780786
+    second: Oficina2_16
+  - first:
+      213: 721675219009841685
+    second: Oficina2_17
+  - first:
+      213: -7176602784493896177
+    second: Oficina2_18
+  - first:
+      213: -3333142502376033206
+    second: Oficina2_19
+  - first:
+      213: -7809438767734153928
+    second: Oficina2_20
+  - first:
+      213: 8779099554591030486
+    second: Oficina2_21
+  - first:
+      213: 8611059336711369167
+    second: Oficina2_22
+  - first:
+      213: 1094963772484919122
+    second: Oficina2_23
+  - first:
+      213: 5533216242423216551
+    second: Oficina2_24
+  - first:
+      213: 695592569635052003
+    second: Oficina2_25
+  - first:
+      213: -1950608282075567802
+    second: Oficina2_26
+  - first:
+      213: -7154899237890745404
+    second: Oficina2_27
+  - first:
+      213: 8820408479066727486
+    second: Oficina2_28
+  - first:
+      213: 292961912570550146
+    second: Oficina2_29
+  - first:
+      213: -2542783429107428786
+    second: Oficina2_30
+  - first:
+      213: -7942278500600948897
+    second: Oficina2_31
+  - first:
+      213: 3779809841858934418
+    second: Oficina2_32
+  - first:
+      213: 7571395485864722206
+    second: Oficina2_33
+  - first:
+      213: 9165105495158710370
+    second: Oficina2_34
+  - first:
+      213: -5250176307541725465
+    second: Oficina2_35
+  - first:
+      213: -2397622345339291774
+    second: Oficina2_36
+  - first:
+      213: 5914168209096136358
+    second: Oficina2_37
+  - first:
+      213: 8729264656791348874
+    second: Oficina2_38
+  - first:
+      213: 3991602704542582351
+    second: Oficina2_39
+  - first:
+      213: -2568271294332520890
+    second: Oficina2_40
+  - first:
+      213: 3427864619084873489
+    second: Oficina2_41
+  - first:
+      213: 3603882325083708768
+    second: Oficina2_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oficina2_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 835
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cedf0aa820fcc070800000000000000
+      internalID: 8128135484939427529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 835
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b32f2392048c80800000000000000
+      internalID: -8321523380299517872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 835
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c137671b8eda20800000000000000
+      internalID: 3089059327054563059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 835
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f27f2e19b4880e0800000000000000
+      internalID: -2267479322430853366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 835
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba602038dc73960800000000000000
+      internalID: 7581754460259920830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_5
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 835
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac3145709608bb0800000000000000
+      internalID: -4935829711401792889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_6
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 893
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9591cc96f5cfb50800000000000000
+      internalID: 6628277659582945757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 893
+        width: 125
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6183ad718263a7ff0800000000000000
+      internalID: -37658101052458986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_8
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 893
+        width: 121
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc568ec54d8aa7980800000000000000
+      internalID: -8540328113309456949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 661
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ab72d8c50926550800000000000000
+      internalID: 6152638768121100945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 662
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6ec11a336c56e20800000000000000
+      internalID: 3343296223441118900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 661
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d993daf0d8869f70800000000000000
+      internalID: 9193686120466192857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 662
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12247dceb113e0170800000000000000
+      internalID: 8146502771967214113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_13
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 662
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc7df9ab91b7e490800000000000000
+      internalID: -7717004154346046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 662
+        width: 127
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2846db4487794810800000000000000
+      internalID: 1750061340301871146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_15
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 719
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff0affba90fb0210800000000000000
+      internalID: 1300397464862986230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_16
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 719
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ee82b7e98297600800000000000000
+      internalID: 466448697545780786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_17
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 719
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa840c9c7e30a00800000000000000
+      internalID: 721675219009841685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_18
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 602
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e79207ac5976c90800000000000000
+      internalID: -7176602784493896177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_19
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 642
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44be18cd8c4eb1d0800000000000000
+      internalID: -3333142502376033206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_20
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 603
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d9a0221dc4f9390800000000000000
+      internalID: -7809438767734153928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 487
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc303ff780a5d970800000000000000
+      internalID: 8779099554591030486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 487
+        width: 126
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1fd78e7d0a08770800000000000000
+      internalID: 8611059336711369167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_23
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 487
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f92ecefb7123f00800000000000000
+      internalID: 1094963772484919122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_24
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 487
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9be033bdee9cc40800000000000000
+      internalID: 5533216242423216551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_25
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 487
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e99f75b1cd37a900800000000000000
+      internalID: 695592569635052003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_26
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 487
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64963fa2a1c0ee4e0800000000000000
+      internalID: -1950608282075567802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_27
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 486
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb1fc92d01b4bc90800000000000000
+      internalID: -7154899237890745404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_28
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 486
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ad9877c2686a70800000000000000
+      internalID: 8820408479066727486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 254
+        width: 127
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879c7bae4fc01400800000000000000
+      internalID: 292961912570550146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 254
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e425d4781f736bcd0800000000000000
+      internalID: -2542783429107428786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 254
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575570a8cb57c190800000000000000
+      internalID: -7942278500600948897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_32
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 370
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296f68e5605947430800000000000000
+      internalID: 3779809841858934418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_33
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 370
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f76f45410031960800000000000000
+      internalID: 7571395485864722206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_34
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 370
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2606ae793eef03f70800000000000000
+      internalID: 9165105495158710370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_35
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 280
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeadc40770a327b0800000000000000
+      internalID: -5250176307541725465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 279
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28733881e2fe9bed0800000000000000
+      internalID: -2397622345339291774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_37
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 280
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6551dc6a8531250800000000000000
+      internalID: 5914168209096136358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 79
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86ab6aa4f3942970800000000000000
+      internalID: 8729264656791348874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 79
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46cfb8e285056730800000000000000
+      internalID: 3991602704542582351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_40
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 94
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6463a767ddaab5cd0800000000000000
+      internalID: -2568271294332520890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_41
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 94
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ffeae95b8329f20800000000000000
+      internalID: 3427864619084873489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oficina2_42
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 94
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d5ce661ef830230800000000000000
+      internalID: 3603882325083708768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oficina2_0: 8128135484939427529
+      Oficina2_1: -8321523380299517872
+      Oficina2_10: 3343296223441118900
+      Oficina2_11: 9193686120466192857
+      Oficina2_12: 8146502771967214113
+      Oficina2_13: -7717004154346046269
+      Oficina2_14: 1750061340301871146
+      Oficina2_15: 1300397464862986230
+      Oficina2_16: 466448697545780786
+      Oficina2_17: 721675219009841685
+      Oficina2_18: -7176602784493896177
+      Oficina2_19: -3333142502376033206
+      Oficina2_2: 3089059327054563059
+      Oficina2_20: -7809438767734153928
+      Oficina2_21: 8779099554591030486
+      Oficina2_22: 8611059336711369167
+      Oficina2_23: 1094963772484919122
+      Oficina2_24: 5533216242423216551
+      Oficina2_25: 695592569635052003
+      Oficina2_26: -1950608282075567802
+      Oficina2_27: -7154899237890745404
+      Oficina2_28: 8820408479066727486
+      Oficina2_29: 292961912570550146
+      Oficina2_3: -2267479322430853366
+      Oficina2_30: -2542783429107428786
+      Oficina2_31: -7942278500600948897
+      Oficina2_32: 3779809841858934418
+      Oficina2_33: 7571395485864722206
+      Oficina2_34: 9165105495158710370
+      Oficina2_35: -5250176307541725465
+      Oficina2_36: -2397622345339291774
+      Oficina2_37: 5914168209096136358
+      Oficina2_38: 8729264656791348874
+      Oficina2_39: 3991602704542582351
+      Oficina2_4: 7581754460259920830
+      Oficina2_40: -2568271294332520890
+      Oficina2_41: 3427864619084873489
+      Oficina2_42: 3603882325083708768
+      Oficina2_5: -4935829711401792889
+      Oficina2_6: 6628277659582945757
+      Oficina2_7: -37658101052458986
+      Oficina2_8: -8540328113309456949
+      Oficina2_9: 6152638768121100945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

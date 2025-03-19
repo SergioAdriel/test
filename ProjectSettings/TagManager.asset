@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Portal1
+  - enemigo
+  - limites
+  - Portal3
+  - Portal2
+  - Portal4
+  - Portal33
+  - Portal11
+  - Portal22
+  - Portal44
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Suelo
+    uniqueID: 2680536927
+    locked: 0
+  - name: Caminos
+    uniqueID: 237148433
+    locked: 0
+  - name: Arboles
+    uniqueID: 2814766071
+    locked: 0
+  - name: Decoracion
+    uniqueID: 1315538977
+    locked: 0
+  - name: Piedras
+    uniqueID: 2697153523
+    locked: 0
+  - name: Edificios
+    uniqueID: 3157817679
+    locked: 0
+  - name: Personaje
+    uniqueID: 734191579
+    locked: 0
+  - name: NPC
+    uniqueID: 3509880223
+    locked: 0
+  - name: Enemigos
+    uniqueID: 116259689
+    locked: 0
+  m_RenderingLayers:
+  - Default
