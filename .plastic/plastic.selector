@@ -1,4 +1,0 @@
-repository "PdV1_2011-2025-2-SupOlvRPG/PdV1_2011-2025-2-SupOlvRPG@4674058636322@cloud"
-  path "/"
-    br "/main"
-    co "/main"

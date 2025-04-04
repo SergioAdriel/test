@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 72f798cc9a74a8b41ac296fb9b4a5851
+guid: 924dca440982cd147bf9a9fc05f88ab0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1691322846870269104
-    second: Inge_0
+      213: -6572396672550683749
+    second: RolloPapel_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Inge_0
+      name: RolloPapel_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 708
-        height: 257
+        x: 98
+        y: 77
+        width: 305
+        height: 346
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0539bcfe4d63788e0800000000000000
-      internalID: -1691322846870269104
+      spriteID: b9b38a16c082ac4a0800000000000000
+      internalID: -6572396672550683749
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Inge_0: -1691322846870269104
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
